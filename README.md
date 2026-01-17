@@ -1,2 +1,16 @@
-# git215-kiara-m1
-ASU GIT215 repository containing module notes, exercises, and weekly assignments using Git, GitHub, and VS Code
+# GIT215 – Module 1
+
+This repository contains coursework for GIT215.
+
+## Module 1 Topics
+- Git & GitHub setup
+- Version control basics
+- Web history
+- IP addresses, domains, and URLs
+- HTTP fundamentals
+- Web trends
+
+## Tools Used
+- GitHub
+- GitHub Desktop
+- Visual Studio Code
